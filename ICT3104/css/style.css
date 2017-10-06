@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-Sep-2017, 10:28:28
+    Author     : Nadia
+*/
+@import url('https://fonts.googleapis.com/css?family=Norican');
+html, body {
+    font-size: 14px;
+}
+.brand {
+    text-align: center;
+    color: black;
+    font-family: 'Norican', cursive;
+    font-weight: 30;
+    font-size: 40px;
+    margin-top:-10px;
+}
+.role {
+    margin-top: 12px;
+    margin-bottom: 5px;
+    text-align: center;
+    color: lightcoral;
+    font-size: 20px;
+}
